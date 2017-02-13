@@ -11,7 +11,7 @@ package org.dean.examples.rmi;
 import java.rmi.*;
 import java.rmi.server.*;
 import java.util.*;
-import Bank.*;
+import org.dean.examples.rmi.Bank.*;
 
 /**
  * This class implements the remote methods defined by the RemoteBank

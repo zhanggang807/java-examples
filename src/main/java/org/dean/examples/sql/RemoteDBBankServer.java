@@ -14,6 +14,7 @@ import java.sql.*;
 import java.io.*;
 import java.util.*;
 import java.util.Date; // import explicitly to disambiguate from java.sql.Date
+import org.dean.examples.rmi.Bank.*;
 
 
 /**

@@ -12,6 +12,7 @@ import java.rmi.*;
 import java.rmi.server.*;
 import java.io.*;
 import java.util.*;
+import org.dean.examples.rmi.Mud.*;
 
 /** 
  * This class implements the RemoteMudPlace interface and exports a
